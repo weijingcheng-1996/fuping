@@ -52,6 +52,16 @@ const createRouter = [
     path: '/measures',
     name: '帮扶措施',
     component: () => import('@/views/measures')
+  },
+  {
+    path: '/medicalCare/info',
+    name: '医疗信息',
+    component: () => import('@/views/medicalCare/info')
+  },
+  {
+    path: '/medicalCare/personalInfo',
+    name: '医疗信息个人详情',
+    component: () => import('@/views/medicalCare/personalInfo')
   }
 ]
 

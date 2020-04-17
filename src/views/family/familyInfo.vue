@@ -42,7 +42,7 @@ export default {
         },
         {
           label: "证件类型",
-          content: "居民身份证(户口薄)",
+          content: "",
           key: "aab018"
         },
         {

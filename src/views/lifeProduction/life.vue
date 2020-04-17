@@ -50,7 +50,7 @@ export default {
         },
         {
           label: "是否危房户",
-          content: "否",
+          content: "",
           key:'aac318'
         },
         {
@@ -60,7 +60,7 @@ export default {
         },
         {
           label: "是否通生活用电",
-          content: "是",
+          content: "",
           key:'aac308'
         }
       ]
